@@ -26,3 +26,4 @@
     </html> 
 
 
+<img src="https://github.com/brunomunarolo/Tutorial-Javascript/assets/113137632/84d73fd2-45c4-418b-9e25-39ea6e66f328">
