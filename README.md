@@ -10,6 +10,21 @@
 
 [Comece a aprender JavaScript agora](https://www.w3schools.com/js/js_intro.asp)
 
+# Perguntas frequentes
+
+- Como obtenho JavaScript?
+
+- Onde posso baixar JavaScript?
+
+- JavaScript é gratuito?
+
+- Você não precisa obter ou baixar JavaScript.
+
+- JavaScript já está sendo executado em seu navegador no seu computador, no tablet e no smartphone.
+
+- JavaScript é gratuito para usar para todos.
+
+
 ### Exemplos em cada capítulo
 
     <!DOCTYPE html>
@@ -74,9 +89,11 @@ Se você tentar todos os exemplos, você vai aprender muito sobre JavaScript, em
 
 - Se você estiver lutando, faça uma pausa ou releia o material.
 
-Certifique-se sempre de entender todos os "Try-it-Yourself" Exemplos.
+- Certifique-se sempre de entender todos os Exemplos.
 
-A única maneira de se tornar um programador inteligente é: Prática. Prática. Prática. Código. Código. Código!
+- A única maneira de se tornar um programador inteligente é: Prática. Prática. Prática. Código. Código. Código!
+
+
 
 
 
