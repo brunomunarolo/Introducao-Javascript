@@ -64,6 +64,8 @@ Se você tentar todos os exemplos, você vai aprender muito sobre JavaScript, em
 
 - As adições anuais (2016, 2017 ... 2021, 2022)
 
+  <br>
+
 ## Velocidade de aprendizado
 
 - Neste tutorial, a velocidade de aprendizagem é a sua escolha.
