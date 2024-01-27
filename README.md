@@ -104,7 +104,7 @@ Se você tentar todos os exemplos, você vai aprender muito sobre JavaScript, em
 
 <br>
 
-#Introdução ao JavaScript
+# Introdução ao JavaScript
 
 - Esta página contém alguns exemplos do que o JavaScript pode fazer.
 
