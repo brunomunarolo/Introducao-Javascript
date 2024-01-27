@@ -56,8 +56,12 @@ Se você tentar todos os exemplos, você vai aprender muito sobre JavaScript, em
 
 ## Este tutorial abrange todas as versões do JavaScript:
 
-O JavaScript original ES1 ES2 ES3 (1997-1999)
-A Primeira Revisão Principal ES5 (2009)
-A Segunda Revisão ES6 (2015)
-As adições anuais (2016, 2017 ... 2021, 2022)
+- O JavaScript original ES1 ES2 ES3 (1997-1999)
+
+- A Primeira Revisão Principal ES5 (2009)
+
+- A Segunda Revisão ES6 (2015)
+
+- As adições anuais (2016, 2017 ... 2021, 2022)
+
 
