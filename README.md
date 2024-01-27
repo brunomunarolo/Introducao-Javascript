@@ -81,7 +81,7 @@ Se você tentar todos os exemplos, você vai aprender muito sobre JavaScript, em
 
   <br>
 
-# Velocidade de aprendizado
+## Velocidade de aprendizado
 
 - Neste tutorial, a velocidade de aprendizagem é a sua escolha.
 
@@ -96,6 +96,24 @@ Se você tentar todos os exemplos, você vai aprender muito sobre JavaScript, em
 - Use os links que são tutoriais mais avançados.
 
 
+## Referências JavaScript
 
+- O W3Schools mantém uma referência JavaScript completa, incluindo todos os objetos HTML e do navegador.
 
+- A referência contém exemplos para todas as propriedades, métodos e eventos, e é continuamente atualizado de acordo com os mais recentes padrões da web.
 
+<br>
+
+#Introdução ao JavaScript
+
+- Esta página contém alguns exemplos do que o JavaScript pode fazer.
+
+# JavaScript pode alterar o conteúdo HTML
+
+- Um dos muitos métodos HTML JavaScript é o .getElementById()
+
+- O exemplo abaixo "localiza" um elemento HTML (com id="demo"), e altera o conteúdo do elemento (innerHTML) para "Hello JavaScript":
+
+### Exemplo
+
+     document.getElementById("demo").innerHTML = "Hello JavaScript";
