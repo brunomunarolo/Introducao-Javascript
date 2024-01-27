@@ -64,6 +64,17 @@ Se você tentar todos os exemplos, você vai aprender muito sobre JavaScript, em
 
 - As adições anuais (2016, 2017 ... 2021, 2022)
 
+## Velocidade de aprendizado
+
+- Neste tutorial, a velocidade de aprendizagem é a sua escolha.
+
+- Tudo depende de você.
+
+- Se você estiver lutando, faça uma pausa ou releia o material.
+
+Certifique-se sempre de entender todos os "Try-it-Yourself" Exemplos.
+
+A única maneira de se tornar um programador inteligente é: Prática. Prática. Prática. Código. Código. Código!
 
 
 
