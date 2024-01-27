@@ -93,7 +93,7 @@ Se você tentar todos os exemplos, você vai aprender muito sobre JavaScript, em
 
 - A única maneira de se tornar um programador inteligente é: Prática. Prática. Prática. Código. Código. Código!
 
-
+- Use os links que são tutoriais mais avançados.
 
 
 
