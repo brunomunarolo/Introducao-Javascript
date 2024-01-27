@@ -37,3 +37,7 @@
 - Os exemplos são melhores do que 1000 palavras. Os exemplos costumam ser mais fáceis de entender do que explicações em texto.
 
 - Este tutorial complementa todas as explicações com exemplos esclarecedores de "Experimente você mesmo".
+
+Se você tentar todos os exemplos, você vai aprender muito sobre JavaScript, em um tempo muito curto!
+
+[Exemplos de JavaScript](https://www.w3schools.com/js/js_examples.asp)
