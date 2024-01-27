@@ -41,3 +41,23 @@
 Se você tentar todos os exemplos, você vai aprender muito sobre JavaScript, em um tempo muito curto!
 
 [Exemplos de JavaScript](https://www.w3schools.com/js/js_examples.asp)
+
+<br>
+
+# Por que estudar JavaScript?
+
+- JavaScript é uma das 3 linguagens que todos os desenvolvedores web devem aprender:
+
+1. HTML para definir o conteúdo de páginas web
+
+2. CSS para especificar o layout das páginas da Web
+
+3. JavaScript para programar o comportamento de páginas web
+
+## Este tutorial abrange todas as versões do JavaScript:
+
+O JavaScript original ES1 ES2 ES3 (1997-1999)
+A Primeira Revisão Principal ES5 (2009)
+A Segunda Revisão ES6 (2015)
+As adições anuais (2016, 2017 ... 2021, 2022)
+
