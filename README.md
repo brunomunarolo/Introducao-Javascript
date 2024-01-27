@@ -66,7 +66,7 @@ Se você tentar todos os exemplos, você vai aprender muito sobre JavaScript, em
 
   <br>
 
-## Velocidade de aprendizado
+# Velocidade de aprendizado
 
 - Neste tutorial, a velocidade de aprendizagem é a sua escolha.
 
