@@ -108,7 +108,7 @@ Se você tentar todos os exemplos, você vai aprender muito sobre JavaScript, em
 
 - Esta página contém alguns exemplos do que o JavaScript pode fazer.
 
-# JavaScript pode alterar o conteúdo HTML
+## JavaScript pode alterar o conteúdo HTML
 
 - Um dos muitos métodos HTML JavaScript é o .getElementById()
 
@@ -117,3 +117,4 @@ Se você tentar todos os exemplos, você vai aprender muito sobre JavaScript, em
 ### Exemplo
 
      document.getElementById("demo").innerHTML = "Hello JavaScript";
+
