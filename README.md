@@ -8,7 +8,7 @@
 
 ## Este tutorial ensinará JavaScript do básico ao avançado.
 
-[Comece a aprender JavaScript agora ->](https://www.w3schools.com/js/js_intro.asp)
+[Comece a aprender JavaScript agora](https://www.w3schools.com/js/js_intro.asp)
 
 ### Exemplos em cada capítulo
 
