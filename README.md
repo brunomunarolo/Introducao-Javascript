@@ -12,11 +12,11 @@
 
 # Perguntas frequentes
 
-- Como obtenho JavaScript?
+     Como obtenho JavaScript?
 
-- Onde posso baixar JavaScript?
-
-- JavaScript é gratuito?
+     Onde posso baixar JavaScript?
+    
+     JavaScript é gratuito?
 
 - Você não precisa obter ou baixar JavaScript.
 
@@ -92,6 +92,8 @@ Se você tentar todos os exemplos, você vai aprender muito sobre JavaScript, em
 - Certifique-se sempre de entender todos os Exemplos.
 
 - A única maneira de se tornar um programador inteligente é: Prática. Prática. Prática. Código. Código. Código!
+
+
 
 
 
