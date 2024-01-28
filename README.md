@@ -118,3 +118,6 @@ Se você tentar todos os exemplos, você vai aprender muito sobre JavaScript, em
 
      document.getElementById("demo").innerHTML = "Hello JavaScript";
 
+
+
+
