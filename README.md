@@ -116,7 +116,33 @@ Se você tentar todos os exemplos, você vai aprender muito sobre JavaScript, em
 
 ### Exemplo
 
-     document.getElementById("demo").innerHTML = "Hello JavaScript";
+     <!DOCTYPE html>
+     <html>
+     <body>
+     
+     <h2>What Can JavaScript Do?</h2>
+     
+     <p id="demo">JavaScript can change HTML content.</p>
+     
+     <button type="button" onclick='document.getElementById("demo").innerHTML = "Hello JavaScript!"'>Click Me!</button>
+     
+     </body>
+     </html>
+
+- JavaScript aceita aspas duplas e simples:
+
+     <!DOCTYPE html>
+     <html>
+     <body>
+     
+     <h2>What Can JavaScript Do?</h2>
+     
+     <p id="demo">JavaScript can change HTML content.</p>
+     
+     <button type="button" onclick='document.getElementById("demo").innerHTML = "Hello JavaScript!"'>Click Me!</button>
+     
+     </body>
+     </html>
 
 
 
