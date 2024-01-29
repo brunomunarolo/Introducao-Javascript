@@ -144,6 +144,12 @@ Se você tentar todos os exemplos, você vai aprender muito sobre JavaScript, em
       </body>
       </html>
 
+## JavaScript pode alterar valores de atributo HTML
+
+- Neste exemplo, o JavaScript altera o valor do atributo (source) de uma tag:src<img>
+
+A Lâmpada
+
 
 
 
